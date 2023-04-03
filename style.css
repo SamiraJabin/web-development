@@ -1,0 +1,50 @@
+body{
+    border-top: 100px solid #FFBFA9;
+    border-right: 100px solid #FFBFA9 ;
+    border-left:100px solid #FFBFA9;
+    border-bottom: 100px solid #FFBFA9;
+    text-align: center;
+    padding: 30px;
+    background-color: peachpuff;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+.myphoto{
+    float: right;
+    height: 400px;
+    width: 200px;
+}
+.about{
+    font-size: 25px;
+    width: 90%;
+    text-align: left;
+}
+.imag{
+    float: left;
+    height: 500px;
+    width: 350px;
+    margin-right: 50px;
+
+}
+.im{
+    padding: 30px 100px;
+
+}
+.interest{
+    font-size:25px;
+    width:90%;
+    text-align: left;
+}
+a{
+    font-size: 30px;
+    padding: 0px 50px;
+}
+.tag{
+    font-size: 20px;
+    color: black;
+    background-color: #FFBFA9;
+}
